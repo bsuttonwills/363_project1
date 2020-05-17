@@ -2,4 +2,4 @@
 ### Blayne Suttonwills
 ### Blessing Apkarian
 
-Completed Project for Introto Databases class, using peer preogramming and remote screen sharing.
+Completed Project for Intro to Databases class, using peer preogramming and remote screen sharing.
